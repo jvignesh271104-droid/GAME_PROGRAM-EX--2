@@ -2,6 +2,9 @@
 
 # Create a player movement using character, collectable, player health and score
 
+## NAME  : JAIAKASH J
+## Reg No: 212225240055
+
 # Aim
 
 Create a playable third-person character in Unreal Engine that can move and run, collect coin-like collectibles, track a Score and Player Health, and display both on-screen (UI).
